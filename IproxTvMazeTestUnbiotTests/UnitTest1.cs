@@ -5,7 +5,8 @@ namespace IproxTvMazeTestUnbiotTests
         [Fact]
         public void Test1()
         {
-
+            Console.WriteLine("Hello World");
         }
     }
+  
 }
