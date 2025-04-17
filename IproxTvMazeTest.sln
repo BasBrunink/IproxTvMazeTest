@@ -4,6 +4,8 @@ VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IproxTvMazeTest", "IproxTvMazeTest.csproj", "{19C6775F-082E-437C-AAF5-99035F4375B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IproxTvMazeTestUnbiotTests", "IproxTvMazeTestUnbiotTests\IproxTvMazeTestUnbiotTests.csproj", "{CFB713B0-F756-4818-B802-95D55114A126}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +16,10 @@ Global
 		{19C6775F-082E-437C-AAF5-99035F4375B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19C6775F-082E-437C-AAF5-99035F4375B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19C6775F-082E-437C-AAF5-99035F4375B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB713B0-F756-4818-B802-95D55114A126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB713B0-F756-4818-B802-95D55114A126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB713B0-F756-4818-B802-95D55114A126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB713B0-F756-4818-B802-95D55114A126}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
